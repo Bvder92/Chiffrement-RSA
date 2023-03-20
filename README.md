@@ -1,4 +1,6 @@
-# Chiffrement-RSA
+# L1 MIASHS 
+
+#Chiffrement-RSA
 
 Ce répositoire Github a pour but de présenter mon premier projet en informatique : un système de chiffrement s'appuyant sur la méthode RSA.
 Mon projet a été réalisé durant ma première année d'étude de licence mathématiques-informatique appliquées aux sciences humaines et sociales.
